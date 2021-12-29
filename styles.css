@@ -73,6 +73,23 @@ opacity: .8;
     justify-content: flex-end;
     margin-bottom: 20px;
 }
+.barra{
+    transition: all 0.5s ease-out;
+
+    width: 120%;
+    height: 200px;
+    top: 30px;
+    background: #000000c5;
+    margin-bottom: -180px;
+    opacity: 0%;
+
+}
+.texto-noticia-principal{
+    transition: all 0.5s ease-out;
+    transform: translateY(100px);
+    opacity: 0%;
+    z-index: -1;
+}
 .btn{
     cursor: pointer;
     display: inline-block;
