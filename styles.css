@@ -115,6 +115,7 @@ opacity: .8;
     margin: 0 5px 0 5px;
     background-color: transparent;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .resaltado{
